@@ -12,6 +12,11 @@
 
 <br />
 
+## Portfolio 🏷
+[Portfolio](https://sohyeonbak.github.io/Portfolio/)
+
+<br />
+
 ## Blog 🏷
 
 [Velog](https://velog.io/@sohyeonbak_oly)

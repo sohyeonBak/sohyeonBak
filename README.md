@@ -1,6 +1,6 @@
 # ✨ Front-end Engineer
 
-편안한 사용자 경험을 위해 코드의 성능과 생산성을 고민하는 **FE Engineer 박소현**입니다.
+편안한 사용자 경험을 위해 코드의 성능과 생산성을 고민하는 **Frontend Developer 박소현**입니다.
 
 <br />
 

@@ -1,4 +1,3 @@
-# ✨ Front-end Developer
 
 ## Blog 🏷
 
